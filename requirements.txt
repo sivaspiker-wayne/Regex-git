@@ -6,4 +6,7 @@ joblib
 batman
 nike
 adidas
+fila
+reebok
+testla
 
