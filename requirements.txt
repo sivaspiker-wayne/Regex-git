@@ -3,4 +3,6 @@ python
 pandas
 numpy
 joblib
-
+batman
+nike
+adidas
