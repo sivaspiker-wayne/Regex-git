@@ -1,2 +1,6 @@
 regex in python
 python
+pandas
+numpy
+joblib
+
