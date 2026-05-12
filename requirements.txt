@@ -3,4 +3,7 @@ python
 pandas
 numpy
 joblib
+fila
+reebok
+testla
 
